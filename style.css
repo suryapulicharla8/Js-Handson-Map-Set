@@ -1,0 +1,13 @@
+pre{
+    color: gold;
+    background-color: black;
+}
+pre:hover{
+    transform: translateX(40px);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+body{
+    background-color: brown;
+}
